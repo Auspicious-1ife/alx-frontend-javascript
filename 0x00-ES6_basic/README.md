@@ -1,0 +1,1 @@
+This project covers the foundational features of ECMAScript 6 (ES6), such as block-scoped variables, arrow functions, destructuring, and promises. It aims to enhance understanding of modern JavaScript and how these features improve code readability and efficiency 
